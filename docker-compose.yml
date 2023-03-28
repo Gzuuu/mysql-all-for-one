@@ -1,4 +1,5 @@
 version: "3"
+# iniciando projeto!!
 
 services:
   # Serviço que irá rodar o node
