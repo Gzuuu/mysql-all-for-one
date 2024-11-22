@@ -6,7 +6,7 @@ Este projeto marca o início da minha jornada com backend e bancos de dados. Des
 ## Como rodar o projeto  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/Gzuuu/mysql-all-for-one-project.git
+   git clone https://github.com/Gzuuu/mysql-all-for-one.git
    ```  
 2. Navegue para a pasta do projeto:  
    ```bash
